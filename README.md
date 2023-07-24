@@ -3,7 +3,7 @@
 
 ## Projects
 :open_file_folder:
-* [x] 581 0x00. Webpack
+* [x] 0x00. Webpack
 
 ## Software engineer
 [Nnamdi Udeh](https://www.endy4elect.com)
